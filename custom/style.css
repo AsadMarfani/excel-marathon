@@ -1,0 +1,14 @@
+.toolbar {
+	margin-bottom: 15px;
+}
+.toolbarclass {
+	cursor: pointer;
+	margin-left: 10px;
+}
+thead.table {
+	cursor: pointer;
+}
+.table th {
+
+	cursor: pointer;
+}
